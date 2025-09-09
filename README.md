@@ -7,7 +7,7 @@
 
 ## 2. Diagram tříd
 
-<img src="class_diagram.png" width="800">
+<img src="class_diagram_v2.png" width="800">
 
 ## 3. Diagram aktivit
 
